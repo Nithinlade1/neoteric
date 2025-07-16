@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6e0fed1-6d88-45b4-b014-01b14189e0ae" name="Changes" comment="gate file push">
-      <change afterPath="$PROJECT_DIR$/subbufile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gate file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gate file.txt" afterDir="false" />
-    </list>
+    <list default="true" id="f6e0fed1-6d88-45b4-b014-01b14189e0ae" name="Changes" comment=" i push two files into reposotiry" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -153,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752647366288</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary=" i push two files into reposotiry">
+      <option name="closed" value="true" />
+      <created>1752647956049</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1752647956049</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -164,6 +169,7 @@
     <MESSAGE value="added 3 file and made changes in file 2" />
     <MESSAGE value="added 3 file and made changes in file 2 8888" />
     <MESSAGE value="gate file push" />
-    <option name="LAST_COMMIT_MESSAGE" value="gate file push" />
+    <MESSAGE value=" i push two files into reposotiry" />
+    <option name="LAST_COMMIT_MESSAGE" value=" i push two files into reposotiry" />
   </component>
 </project>
