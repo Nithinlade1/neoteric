@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6e0fed1-6d88-45b4-b014-01b14189e0ae" name="Changes" comment="gate file push">
+      <change afterPath="$PROJECT_DIR$/subbufile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gate file.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="adding1" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="adding1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "assignee": "Nithinlade1"
+    }
+  ],
+  "lastFilter": {
+    "assignee": "Nithinlade1"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Nithinlade1/neoteric.git&quot;,
+    &quot;accountId&quot;: &quot;dfb5d3dd-1f88-42e1-be5c-d22be3e6d9ef&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2zwEpcW6X7GHDJ8TGUIAk0M05cM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "adding1",
+    "ignore.virus.scanning.warn.message": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\githubdemo\localtoremote\neoteric" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6e0fed1-6d88-45b4-b014-01b14189e0ae" name="Changes" comment="" />
+      <created>1752633918525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752633918525</updated>
+    </task>
+    <task id="LOCAL-00001" summary="this is first file">
+      <option name="closed" value="true" />
+      <created>1752644093700</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752644093700</updated>
+    </task>
+    <task id="LOCAL-00002" summary="second file from adding2">
+      <option name="closed" value="true" />
+      <created>1752644479497</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752644479497</updated>
+    </task>
+    <task id="LOCAL-00003" summary="third file from gate air">
+      <option name="closed" value="true" />
+      <created>1752644715683</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1752644715683</updated>
+    </task>
+    <task id="LOCAL-00004" summary="third file from gate chaged story">
+      <option name="closed" value="true" />
+      <created>1752644977300</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1752644977300</updated>
+    </task>
+    <task id="LOCAL-00005" summary="third file from gate chaged story">
+      <option name="closed" value="true" />
+      <created>1752645956971</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1752645956971</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added 3 file and made changes in file 2">
+      <option name="closed" value="true" />
+      <created>1752646309021</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1752646309021</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added 3 file and made changes in file 2 8888">
+      <option name="closed" value="true" />
+      <created>1752647034943</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1752647034943</updated>
+    </task>
+    <task id="LOCAL-00008" summary="gate file push">
+      <option name="closed" value="true" />
+      <created>1752647348825</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1752647348825</updated>
+    </task>
+    <task id="LOCAL-00009" summary="gate file push">
+      <option name="closed" value="true" />
+      <created>1752647366288</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1752647366288</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="this is first file" />
+    <MESSAGE value="second file from adding2" />
+    <MESSAGE value="third file from gate air" />
+    <MESSAGE value="third file from gate chaged story" />
+    <MESSAGE value="added 3 file and made changes in file 2" />
+    <MESSAGE value="added 3 file and made changes in file 2 8888" />
+    <MESSAGE value="gate file push" />
+    <option name="LAST_COMMIT_MESSAGE" value="gate file push" />
+  </component>
+</project>
