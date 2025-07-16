@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6e0fed1-6d88-45b4-b014-01b14189e0ae" name="Changes" comment="added 3 file and made changes in file 2 8888">
-      <change afterPath="$PROJECT_DIR$/gate file.txt" afterDir="false" />
+    <list default="true" id="f6e0fed1-6d88-45b4-b014-01b14189e0ae" name="Changes" comment="gate file push">
+      <change afterPath="$PROJECT_DIR$/subbufile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gate file.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +137,23 @@
       <option name="project" value="LOCAL" />
       <updated>1752647034943</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="gate file push">
+      <option name="closed" value="true" />
+      <created>1752647348825</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1752647348825</updated>
+    </task>
+    <task id="LOCAL-00009" summary="gate file push">
+      <option name="closed" value="true" />
+      <created>1752647366288</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1752647366288</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -146,6 +163,7 @@
     <MESSAGE value="third file from gate chaged story" />
     <MESSAGE value="added 3 file and made changes in file 2" />
     <MESSAGE value="added 3 file and made changes in file 2 8888" />
-    <option name="LAST_COMMIT_MESSAGE" value="added 3 file and made changes in file 2 8888" />
+    <MESSAGE value="gate file push" />
+    <option name="LAST_COMMIT_MESSAGE" value="gate file push" />
   </component>
 </project>
