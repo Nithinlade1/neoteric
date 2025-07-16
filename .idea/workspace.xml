@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6e0fed1-6d88-45b4-b014-01b14189e0ae" name="Changes" comment="third file from gate chaged story">
-      <change afterPath="$PROJECT_DIR$/.idea/file3" afterDir="false" />
+    <list default="true" id="f6e0fed1-6d88-45b4-b014-01b14189e0ae" name="Changes" comment="added 3 file and made changes in file 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,12 +33,16 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Nithinlade1&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "assignee": "Nithinlade1"
+    }
+  ],
+  "lastFilter": {
+    "assignee": "Nithinlade1"
   }
-}</component>
+}]]></component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Nithinlade1/neoteric.git&quot;,
@@ -117,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752645956971</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added 3 file and made changes in file 2">
+      <option name="closed" value="true" />
+      <created>1752646309021</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1752646309021</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -125,6 +136,7 @@
     <MESSAGE value="second file from adding2" />
     <MESSAGE value="third file from gate air" />
     <MESSAGE value="third file from gate chaged story" />
-    <option name="LAST_COMMIT_MESSAGE" value="third file from gate chaged story" />
+    <MESSAGE value="added 3 file and made changes in file 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="added 3 file and made changes in file 2" />
   </component>
 </project>
